@@ -27,8 +27,8 @@ npm start
 npm run deploy
 ```
 
-开启本地运行后,访问 <http://0.0.0.0:8080> 即可
-
+* 开启本地运行后,访问 <http://0.0.0.0:8080> 即可
+* github-pages 部署示例地址: <https://zen-seed.github.io/markdown-ppt/index.html>
 
 ## 项目说明
 
